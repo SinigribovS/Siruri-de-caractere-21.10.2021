@@ -1,5 +1,4 @@
 s=str(input("Dați șirul de caractere:"))
-s=s.upper() 
 a=s.count('A')
 b=s.replace('A','*')
 c=s.replace('B','')
